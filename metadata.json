@@ -1,0 +1,8 @@
+[
+  {
+    "original_file": "secret.txt",
+    "encrypted_file": "secret.txt.enc",
+    "timestamp": "2025-11-07T06:23:22.330165",
+    "hash": "878e631bdeb9594ff55fe1eaf44e58e2ca0d6adfe34671a50c866a3485c639e8"
+  }
+]
